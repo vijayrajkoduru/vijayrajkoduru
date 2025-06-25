@@ -2,7 +2,7 @@
 
 I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automation, cloud-native tech, and scalable infrastructure.  
 
-## 🛡️ DevSecOps Stack
+## 🛡️ DevSecOps...
 
 ## 🛡️ Security & DevOps Toolbelt
 
