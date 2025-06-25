@@ -36,6 +36,24 @@ I'm Vijaykumar, a **DevOps Engineer** from Hyderabad, passionate about automatio
 - [Monitoring Stack (Prometheus+Grafana)](https://github.com/yourusername/k8s-monitoring): Kubernetes monitoring setup.
   
 ---
+## **Architecture Overview**
+
+```mermaid
+graph TD
+    A[Developers] -->|Push Code| B(CI Pipeline)
+    B --> C[Container Image]
+    C --> D[Kubernetes Cluster]
+    D --> E{Automatic}
+    E --> F[Scaling]
+    E --> G[Healing]
+    E --> H[Networking]
+```
+
+Key components:
+- **CI Pipeline**: Builds/test container images
+- **K8s Cluster**: Manages deployment automatically
+- **Auto-Scaling**: Handles traffic spikes
+---
 ### Let’s Connect! 🤝  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykumarkoduru/)
  
