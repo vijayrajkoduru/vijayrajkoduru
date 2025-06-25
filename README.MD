@@ -49,11 +49,6 @@ graph TD
     E --> H[Networking]
 ```
 
-Key components:
-- **CI Pipeline**: Builds/test container images
-- **K8s Cluster**: Manages deployment automatically
-- **Auto-Scaling**: Handles traffic spikes
----
 ### Let’s Connect! 🤝  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaykumarkoduru/)
  
